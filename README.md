@@ -43,6 +43,8 @@ Removes the human variable from arrow ballistic testing, so that any measured de
 
 TÜBİTAK 2209-B funded · filed via YTU TTO, currently under patent evaluation · source is private
 
+📎 [Full project write-up →](https://www.fatihozturk.net/portfolio-collections/portfolio/mekanik-tasar%C4%B1m-ve-sim%C3%BClasyon)
+
 ---
 
 ### 📂 Repositories

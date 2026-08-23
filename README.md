@@ -15,9 +15,9 @@
 
 ---
 
-I take systems from architecture to working hardware — mechanical design, custom electronics, real-time control and the vision algorithms that let them see and decide. A machine only works when all three layers are right at the same time, and I'd rather understand the whole system than a single slice of it.
+I take systems from architecture to working hardware mechanical design, custom electronics, real-time control and the vision algorithms that let them see and decide. A machine only works when all three layers are right at the same time, and I'd rather understand the whole system than a single slice of it.
 
-**B.Sc. Mechatronics Engineering**, Yıldız Technical University — graduated 3rd in department, with Honours.
+**B.Sc. Mechatronics Engineering**, Yıldız Technical University / graduated 3rd in department, with Honours.
 
 ---
 
@@ -42,7 +42,7 @@ I take systems from architecture to working hardware — mechanical design, cust
 Removes the human variable from arrow ballistic testing, so that any measured deviation belongs to the equipment rather than the archer. I led the project and owned the system design: architecture, custom PCB with isolated power rails, STM32 firmware and vision-based closed-loop control. Verified at ~42 mm average group diameter against an ≤80 mm requirement at 18 m.
 
 TÜBİTAK 2209-B funded · filed via YTU TTO, currently under patent evaluation
-*Source is private — full write-up at [fatihozturk.net](https://fatihozturk.net)*
+*Source is private full write-up at [fatihozturk.net](https://fatihozturk.net)*
 
 ---
 
@@ -61,5 +61,5 @@ TÜBİTAK 2209-B funded · filed via YTU TTO, currently under patent evaluation
 
 ### 📄 Publications
 
-- **Classification of Normal and Abnormal Heartbeats via R-Peak-Based Segmentation of ECG Signals** — *medRxiv, 2025*
-- **CNN-Based Detection of Cardiovascular Diseases from ECG Images** — *arXiv, 2024*
+- **Classification of Normal and Abnormal Heartbeats via R-Peak-Based Segmentation of ECG Signals** - *medRxiv, 2025*
+- **CNN-Based Detection of Cardiovascular Diseases from ECG Images** - *arXiv, 2024*

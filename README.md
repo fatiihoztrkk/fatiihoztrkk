@@ -1,10 +1,10 @@
 ## Fatih Öztürk
 
 Mechatronics engineer working across robotics, embedded systems and computer vision.
-I take systems from architecture to working hardware — mechanical design, custom
+I take systems from architecture to working hardware - mechanical design, custom
 electronics, real-time control and the vision algorithms that let them see and decide.
 
-B.Sc. Mechatronics Engineering, Yıldız Technical University — graduated 3rd in department.
+B.Sc. Mechatronics Engineering, Yıldız Technical University - graduated 3rd in department.
 
 ---
 
@@ -30,4 +30,4 @@ cameras to extract body joint angles, with a Unity interface for shot review.
 
 ### Contact
 
-[fatihozturk.net](https://fatihozturk.net) · [LinkedIn](https://linkedin.com/in/fatiihozturk) · fatiihoztrkk@hotmail.com
+[fatihozturk.net](https://fatihozturk.net) · [LinkedIn](https://linkedin.com/in/fatiihozturk) 

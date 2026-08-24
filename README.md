@@ -15,9 +15,9 @@
 
 ---
 
-I take systems from architecture to working hardware — mechanical design, custom electronics, real-time control and the vision algorithms that let them see and decide. A machine only works when all three layers are right at the same time, and I'd rather understand the whole system than a single slice of it.
+I take systems from architecture to working hardware - mechanical design, custom electronics, real-time control and the vision algorithms that let them see and decide. A machine only works when all three layers are right at the same time, and I'd rather understand the whole system than a single slice of it.
 
-**B.Sc. Mechatronics Engineering**, Yıldız Technical University — graduated 3rd in department, with Honours.
+**B.Sc. Mechatronics Engineering**, Yıldız Technical University - graduated 3rd in department, with Honours.
 
 ---
 
@@ -43,7 +43,7 @@ Removes the human variable from arrow ballistic testing, so that any measured de
 
 TÜBİTAK 2209-B funded · filed via YTU TTO, currently under patent evaluation · source is private
 
-📎 [Full project write-up →](https://www.fatihozturk.net/portfolio-collections/portfolio/mekanik-tasar%C4%B1m-ve-sim%C3%BClasyon)
+📎 [Full project write-up →](https://www.fatihozturk.net/portfolio-collections/portfolio/mekanik-tasarım-ve-simülasyon)
 
 ---
 
